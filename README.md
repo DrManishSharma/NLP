@@ -9,4 +9,4 @@ This notebook contains information on setting a basic pipeline for extracting in
 
 
 ### NER_FromImages2
-This notebook contains code to extract text data from XML files and then apply name entity recognition to find date, company name, invoice no. etc using spaCy pipeline. A detailed version along with data can also be found _[here](https://www.kaggle.com/manishthem/notebook676e936447)_. The data used in the notebook can be found in data_NER_fromImages folder. 
+This notebook contains code to extract text data from XML files and then apply name entity recognition to find date, company name, invoice no. etc using spaCy pipeline. A detailed version along with data can also be found _[here](https://www.kaggle.com/manishthem/notebook676e936447)_. The data used in the notebook can be found on kaggle _[here](https://www.kaggle.com/manishthem/text-extraction-for-ocr)_. 
