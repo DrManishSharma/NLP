@@ -8,3 +8,5 @@ It's a jupyter notebook with an example for sentiment analysis. It also serves a
 This notebook contains information on setting a basic pipeline for extracting information from images. Tesseract is used for extracting the information from image while NER pipelines are set using Transformer's pipeline and spaCy. An extended version of this notebook is NER_FromImages2. A detailed version along with data can also be found _[here](https://www.kaggle.com/manishthem/notebook676e936447)_.
 
 
+### NER_FromImages2
+This notebook contains code to extract text data from XML files and then apply name entity recognition to find date, company name, invoice no. etc using spaCy pipeline. A detailed version along with data can also be found _[here](https://www.kaggle.com/manishthem/notebook676e936447)_. The data used in the notebook can be found in data_NER_fromImages folder. 
